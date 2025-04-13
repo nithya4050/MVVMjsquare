@@ -1,0 +1,11 @@
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.AssemblyInfoInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.AssemblyInfo.cs
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\bin\Debug\net8.0\jsquareMVVM.DataAccess.deps.json
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\bin\Debug\net8.0\jsquareMVVM.DataAccess.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\bin\Debug\net8.0\jsquareMVVM.DataAccess.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\refint\jsquareMVVM.DataAccess.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\jsquareMVVM.DataAccess.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.DataAccess\obj\Debug\net8.0\ref\jsquareMVVM.DataAccess.dll

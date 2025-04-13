@@ -1,0 +1,17 @@
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.ViewModel.deps.json
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.ViewModel.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.ViewModel.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.Model.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.Model.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.csproj.AssemblyReference.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.AssemblyInfoInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.AssemblyInfo.cs
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareM.8283E68A.Up2Date
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\refint\jsquareMVVM.ViewModel.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\jsquareMVVM.ViewModel.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\obj\Debug\net8.0\ref\jsquareMVVM.ViewModel.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.DataAccess.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.ViewModel\bin\Debug\net8.0\jsquareMVVM.DataAccess.pdb

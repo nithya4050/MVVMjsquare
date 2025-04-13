@@ -1,0 +1,11 @@
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\bin\Debug\net8.0\jsquareMVVM.Model.deps.json
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\bin\Debug\net8.0\jsquareMVVM.Model.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\bin\Debug\net8.0\jsquareMVVM.Model.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.AssemblyInfoInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.AssemblyInfo.cs
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.csproj.CoreCompileInputs.cache
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\refint\jsquareMVVM.Model.dll
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\jsquareMVVM.Model.pdb
+C:\Users\snafa\source\repos\jsquareMVVM\jsquareMVVM.Model\obj\Debug\net8.0\ref\jsquareMVVM.Model.dll

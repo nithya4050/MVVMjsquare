@@ -1,0 +1,108 @@
+﻿<Window x:Class="jsquareMVVM.View.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:jsquareMVVM.View"
+        xmlns:vm="clr-namespace:jsquareMVVM.ViewModel;assembly=jsquareMVVM.ViewModel"
+       
+       
+        mc:Ignorable="d"
+        Title="Home" Height="800" Width="640" WindowStyle="None" WindowStartupLocation="CenterScreen" Background="AliceBlue">
+    
+    
+    <Window.DataContext>
+        <vm:HomeViewModel></vm:HomeViewModel>
+        
+    </Window.DataContext>
+
+   
+
+    <StackPanel>
+        <StackPanel Margin="30" HorizontalAlignment="Center" Width="300">
+            <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="Name"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Name}" Margin="0 5 0 5" Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="Lastname"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Lastname}" Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="Education"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Education}"  Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="DateofBirth"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Dateofbirth}" Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="Age"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Age}" Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="Place"></TextBlock>
+            <TextBox Text="{Binding HomeFields.Place}" Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <StackPanel Margin="0 0 0 10">
+            <TextBlock Text="PhoneNo"></TextBlock>
+            <TextBox Text="{Binding HomeFields.PhoneNo}" Margin="0 5 0 5"  Height="25" Padding="2"></TextBox>
+        </StackPanel>
+
+        <Button Content="SAVE" Command="{Binding SaveData}"></Button>
+        <Button Content="CLEAR" Command="{Binding ClearData}"></Button>
+
+        <Button Content="UPDATE" Command="{Binding UpdateData}"></Button>
+        <Button Content="DELETE" Command="{Binding DeleteData}"></Button>
+
+            <!--<StackPanel>
+        <StackPanel>
+        <TextBox x:Name="txtname"></TextBox>
+        <TextBlock Text="{Binding Text,ElementName=txtname}">
+        </TextBlock>
+    </StackPanel>
+
+        <StackPanel>
+            <TextBox x:Name="txtname2"></TextBox>
+            <TextBlock FontWeight="Bold" FontSize="11" Text="{Binding Text.Length,ElementName=txtname2}">
+
+            </TextBlock>
+        </StackPanel>
+        
+        <StackPanel>
+        <TextBox x:Name="txtname1" Text="JSquare"></TextBox>
+        <TextBlock FontWeight="Bold" FontSize="11" Text="{Binding Text.Length,ElementName=txtname1}">
+        </TextBlock>
+    </StackPanel>
+    </StackPanel>-->
+       </StackPanel>
+       <StackPanel Margin="20" HorizontalAlignment="Center" Width="600">
+                    <Border Background="White" CornerRadius="10" Padding="10" Grid.Row="1">
+            <ListView x:Name="lststudent" Margin="10" ItemsSource="{Binding HomeLists}" IsSynchronizedWithCurrentItem="True" Width="500">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Name" Width="50" DisplayMemberBinding="{Binding Name}"/>
+                            <GridViewColumn Header="Lname" Width="50" DisplayMemberBinding="{Binding Lastname}"/>
+                        <GridViewColumn Header="Education" Width="50" DisplayMemberBinding="{Binding Education}"/>
+                            <GridViewColumn Header="DateofBirth" Width="100" DisplayMemberBinding="{Binding Dateofbirth}"/>
+                        <GridViewColumn Header="Age" Width="30" DisplayMemberBinding="{Binding Age}"/>
+                        <GridViewColumn Header="Place" Width="100" DisplayMemberBinding="{Binding Place}"/>
+                            <GridViewColumn Header="PhoneNo" Width="100" DisplayMemberBinding="{Binding PhoneNo}"/>
+
+
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+
+    </StackPanel>
+    </StackPanel>
+
+</Window>
